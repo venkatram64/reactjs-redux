@@ -13,6 +13,7 @@ import { fetchTweets } from "../actions/tweetsActions"
 })
 
 export default class Layout extends React.Component {
+    
   componentWillMount() {
     this.props.dispatch(fetchUser())
   }
