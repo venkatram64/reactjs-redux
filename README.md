@@ -1,3 +1,7 @@
+To install react-redux
+npm install --no-optional --save react-redux
+
+
 step 1: npm install -g webpack
 step 2: npm install
 
